@@ -9,7 +9,7 @@ cd ..
 catkin_make --pkg=er_obstacle_control
 ```
 ```sh
-cd catkin_ws/src/er_obstacle_control/scripts/
+cd catkin_ws/src/er_obstacle_control/script/
 sudo chmod +x er_run.py
 ```
 
