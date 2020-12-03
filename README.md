@@ -29,7 +29,7 @@ er_event_request: int64
 
 пример использования:
 ```sh
-rosservice call /er_obstacle_control "er_event_request: '1'"
+rosservice call /er_obstacle_control "er_event_request: 1"
 ```
 
 Ответ от сервиса:
